@@ -2,11 +2,11 @@
 
 🧑‍💻 **Software Engineer** | 🎓 **M.S. Software Engineering @ ASU (Graduating in Dec 2025)** 
 
-My ✨ curiosity ✨ for programming began in childhood when my uncle would visit us from the USA. I'd watch him work on his laptop, typing mysterious commands on a black screen that seemed like magic to me. I'd sit there wondering what exactly he was doing - little did I know my uncle was a software engineer! I got my first kids laptop from him and spent hours mimicking the way he typed, completely fascinated. But my screen wasn't black and studded with white lines of some zebration - mine had a bunch of games!
+My ✨ **curiosity** ✨ for programming began in childhood when my uncle would visit us from the USA. I'd watch him work on his laptop, typing mysterious commands on a black screen that seemed like magic to me. I'd sit there wondering what exactly he was doing - little did I know my uncle was a software engineer! I got my first kids laptop from him and spent hours mimicking the way he typed, completely fascinated. But my screen wasn't black and studded with white lines of some zebration - mine had a bunch of games!
 
-During my 10th-grade summer break, boredom led me to enroll in a computer class where my first teacher, Urvi Joshi ma'am, ignited my 🔥 passion 🔥 for programming. When I solved my first pattern problem completely on my own, she told me I should definitely follow this path. That moment created my 💡 interest 💡 in computer science that changed everything.
+During my 10th-grade summer break, boredom led me to enroll in a computer class where my first teacher, Urvi Joshi ma'am, ignited my 🔥** interest** 🔥 for programming. When I solved my first pattern problem completely on my own, she told me I should definitely follow this path.
 
-After 12th grade, when it was time to decide my career path, there was only one thing I could think about - becoming a software engineer. I pursued my Bachelor's in Computer Science and Engineering, then applied to ASU where I was fortunate to receive the 🏆 Namu Scholarship at Arizona State University 🏆 for their Software Engineering program. This is how my 💡 interest 💡 transformed into 🔥 passion 🔥.
+After 12th grade, when it was time to decide my career path, there was only one thing I could think about - becoming a software engineer. I pursued my Bachelor's in Computer Science and Engineering, then applied to ASU where I was fortunate to receive the 🏆 **Namu Scholarship at Arizona State University 🏆 for their Software Engineering program.** This is how my 💡 **interest** 💡 transformed into 🔥 **passion** 🔥.
 
 Unknowingly, today I'm doing that same "cool thing" my uncle did on his black screen. The magic is real, and now I'm creating it! 😄
 

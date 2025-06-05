@@ -1,6 +1,6 @@
 # Hi, I'm Vipsa Kamani 👋
 
-🧑‍💻 **Software Engineer** | 🎓 **M.S. Software Engineering @ ASU (Dec 2025)** 
+🧑‍💻 **Software Engineer** | 🎓 **M.S. Software Engineering @ ASU (Graduating in Dec 2025)** 
 
 My programming journey began in childhood when my uncle would visit us from the USA. I'd watch him work on his laptop, typing mysterious commands on a black screen that seemed like magic to me. I'd sit there wondering what exactly he was doing - little did I know my uncle was a software engineer! I got my first kids laptop from him and spent hours mimicking the way he typed, completely fascinated. But my screen wasn't black and studded with white lines of some zebration - mine had a bunch of games!
 

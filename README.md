@@ -2,12 +2,10 @@
 
 🧑‍💻 **Software Engineer** | 🎓 **M.S. Software Engineering @ ASU (Graduating in Dec 2025)** 
 
-My programming journey began in childhood when my uncle would visit us from the USA. I'd watch him work on his laptop, typing mysterious commands on a black screen that seemed like magic to me. I'd sit there wondering what exactly he was doing - little did I know my uncle was a software engineer! I got my first kids laptop from him and spent hours mimicking the way he typed, completely fascinated. But my screen wasn't black and studded with white lines of some zebration - mine had a bunch of games!
-
-During my 10th-grade summer break, boredom led me to enroll in a computer class where my first teacher, **Urvi Joshi ma'am**, ignited my passion for programming. When I solved my first pattern problem completely on my own, she told me I should definitely follow this path. That moment changed everything.
-
-After 12th grade, when it was time to decide my career path, there was only one thing I could think about - becoming a software engineer. I pursued my Bachelor's in Computer Science and Engineering, then applied to ASU where I was fortunate to receive the **Namu Scholarship** for their Software Engineering program. How could I say no?
-
+About Me
+My <span style="color: #ff6b6b; font-weight: bold;">curiosity</span> for programming began in childhood when my uncle would visit us from the USA. I'd watch him work on his laptop, typing mysterious commands on a black screen that seemed like magic to me. I'd sit there wondering what exactly he was doing - little did I know my uncle was a software engineer! I got my first kids laptop from him and spent hours mimicking the way he typed, completely fascinated. But my screen wasn't black and studded with white lines of some zebration - mine had a bunch of games!
+During my 10th-grade summer break, boredom led me to enroll in a computer class where my first teacher, Urvi Joshi ma'am, ignited my <span style="color: #4ecdc4; font-weight: bold;">passion</span> for programming. When I solved my first pattern problem completely on my own, she told me I should definitely follow this path. That moment created my <span style="color: #45b7d1; font-weight: bold;">interest</span> in computer science that changed everything.
+After 12th grade, when it was time to decide my career path, there was only one thing I could think about - becoming a software engineer. I pursued my Bachelor's in Computer Science and Engineering, then applied to ASU where I was fortunate to receive the <span style="color: #f39c12; font-weight: bold; background-color: #fff3cd; padding: 2px 6px; border-radius: 4px;">🏆 Namu Scholarship at Arizona State University</span> for their Software Engineering program. This is how my <span style="color: #45b7d1; font-weight: bold;">interest</span> transformed into <span style="color: #4ecdc4; font-weight: bold;">passion</span>.
 Unknowingly, today I'm doing that same "cool thing" my uncle did on his black screen. The magic is real, and now I'm creating it! 😄
 
 ## 🌟 Open Source Contributions

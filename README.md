@@ -6,7 +6,7 @@ My ✨ **curiosity** ✨ for programming began in childhood when my uncle would 
 
 During my 10th-grade summer break, boredom led me to enroll in a computer class where my first teacher, Urvi Joshi ma'am, ignited my 🔥 **interest** 🔥 for programming. When I solved my first pattern problem completely on my own, she told me I should definitely follow this path.
 
-After 12th grade, when it was time to decide my career path, there was only one thing I could think about - becoming a software engineer. I pursued my Bachelor's in Computer Science and Engineering, then applied to ASU where I was fortunate to receive the 🏆 **Namu Scholarship at Arizona State University 🏆 for their Software Engineering program.** This is how my 💡 **interest** 💡 transformed into 🔥 **passion** 🔥.
+After 12th grade, when it was time to decide my career path, there was only one thing I could think about. So, I pursued a Bachelor's degree in Computer Science and Engineering, then applied to Arizona State University where I was fortunate to receive the 🏆 **Namu Scholarship at ASU** 🏆 for their **Master's in Software Engineering program**. This is how my 💡 **interest** 💡 transformed into 🔥 **passion** 🔥.
 
 Unknowingly, today I'm doing that same "cool thing" my uncle did on his black screen. The magic is real, and now I'm creating it! 😄
 

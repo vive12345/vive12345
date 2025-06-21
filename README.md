@@ -27,7 +27,9 @@ Unknowingly, today I'm doing that same "cool thing" my uncle did on his black sc
 | **[RoadSense](https://github.com/vive12345/RoadSense)** | Real-time autonomous vehicle simulator with ADAS features and segment detection | Java, WebSocket, Multithreading, Swing UI, GPS Analysis |
 | **[Health Manager System](https://github.com/vive12345/Health-Manager-system)** | Full-stack health tracking app with ML recommendations and chatbot integration | Flask, Python, JavaScript, KNN Algorithm, ChatGPT API, Twilio |
 | **[Student Dropout Prediction](https://github.com/vive12345/Predicting-Student-Dropout-and-Academic-Success-)** | ML system predicting student dropout with 92% accuracy using ensemble methods | Python, XGBoost, Random Forest, SMOTE, scikit-learn |
+## 🌟 Hackathons Project Code
 
+* **[forge Atlassian june 2025 Devpost Hackathon](https://github.com/vive12345/Atlassian-forge-quest-hackathon)**
 ---
 
 ### 📫 How to reach me: **vipsakamani11@gmail.com**

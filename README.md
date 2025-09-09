@@ -4,7 +4,7 @@
 
 WHEN ?
 
-My ✨ **curiosity** ✨ for programming began in childhood when my uncle would visit us from abroad. I'd watch him work on his laptop, typing mysterious commands on a black screen that seemed like magic to me.
+My 🔥 **curiosity** 🔥 for programming began in childhood when my uncle would visit us from abroad. I'd watch him work on his laptop, typing mysterious commands on a black screen that seemed like magic to me.
 
 During my 10th grade summer break, boredom led me to enroll in a computer class where my first teacher, Urvi mam, ignited my 🔥 **interest** 🔥 for programming. When I solved my first pattern problem completely on my own, she told me I should definitely follow this path.
 

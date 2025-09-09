@@ -99,11 +99,6 @@
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
 </div>
-
-<div style="margin-top: 20px;">
-  <a href="https://github.com/vive12345" style="text-decoration: none;">
-    <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=github&logoColor=white" alt="Portfolio" />
-  </a>
 </div>
 
 <div style="margin-top: 20px;">

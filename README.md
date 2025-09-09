@@ -1,9 +1,7 @@
 # Hi, I'm Vipsa Kamani 👋
 
 🧑‍💻 **Software Engineer** | 🎓 **M.S. Software Engineering @ ASU (Graduating in Dec 2025)** 
-
-* "When we are involved in creativity, we feel that we are living more fully than during the rest of life" *
-                                                                                            ----Mihaly Csikszentmihalyi 
+*"When we are involved in creativity, we feel that we are living more fully than during the rest of life"* ___ Mihaly Csikszentmihalyi 
 
 My 🔥 **curiosity** 🔥 for programming began in childhood when my uncle would visit us from abroad. I'd watch him work on his laptop, typing mysterious commands on a black screen that seemed like magic to me.
 

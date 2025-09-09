@@ -46,22 +46,22 @@
 <div style="display: grid; gap: 15px; margin: 20px 0;">
 
 <div style="border: 2px solid #4CAF50; border-radius: 10px; padding: 15px; background: linear-gradient(135deg, #e8f5e8, #f0fff0);">
-  <strong>🔬 <a href="https://github.com/scikit-learn/scikit-learn/commit/e520b8bf5b2629c376f264b61d6798c43e91ea6c">scikit-learn #30630</a></strong><br>
+  <strong>▫ <a href="https://github.com/scikit-learn/scikit-learn/commit/e520b8bf5b2629c376f264b61d6798c43e91ea6c">scikit-learn #30630</a></strong><br>
   <em>ENHANCE:</em> Improved color distinction in Gradient Boosting Regression for enhanced accessibility
 </div>
 
 <div style="border: 2px solid #2196F3; border-radius: 10px; padding: 15px; background: linear-gradient(135deg, #e3f2fd, #f0f8ff);">
-  <strong>📚 <a href="https://github.com/business4s/workflows4s/pull/30">workflows4s #30</a></strong><br>
+  <strong>▫ <a href="https://github.com/business4s/workflows4s/pull/30">workflows4s #30</a></strong><br>
   <em>DOCS:</em> Added Airflow comparison documentation to help developers understand framework differences
 </div>
 
 <div style="border: 2px solid #FF9800; border-radius: 10px; padding: 15px; background: linear-gradient(135deg, #fff3e0, #fffaf0);">
-  <strong>🐛 <a href="https://github.com/PostHog/posthog.com/pull/11664">PostHog #11664</a></strong><br>
+  <strong>▫ <a href="https://github.com/PostHog/posthog.com/pull/11664">PostHog #11664</a></strong><br>
   <em>FIX:</em> Corrected typo in .NET SDK configuration docs improving developer experience
 </div>
 
 <div style="border: 2px solid #9C27B0; border-radius: 10px; padding: 15px; background: linear-gradient(135deg, #f3e5f5, #faf0ff);">
-  <strong>🤖 <a href="https://www.omdena.com/chapter-challenges/">RepZone: AI-Powered Route Optimization</a></strong> | <strong>Open Source Omdena</strong><br>
+  <strong>▫ <a href="https://www.omdena.com/chapter-challenges/">RepZone: AI-Powered Route Optimization</a></strong> | <strong>Open Source Omdena</strong><br>
   <em>Junior ML Engineer:</em> Contributed to AI-driven route optimization model for field sales operations, minimizing travel distances and enabling real-time updates for enhanced operational efficiency.
 </div>
 
@@ -71,15 +71,15 @@
 
 <div align="center">
 
-| 🚀 **Project** | 📝 **Description** | 🛠️ **Technologies** | 📊 **Key Achievement** |
+| **Project** | 📝 **Description** | 🛠️ **Technologies** | 📊 **Key Achievement** |
 |:---|:---|:---|:---|
-| **[📈 StockExpert](https://github.com/vive12345/StockExpert)** | Real-time responsive stock trading web application with advanced analytics and portfolio management | `Angular` `Node.js` `MongoDB Atlas` `GCP` `Finnhub API` `Polygon.io` `Highcharts` | **60%** faster load times<br>**30%** faster data retrieval |
-| **[👁️ WorkScope](https://github.com/vive12345/WorkScope)** | AI-driven employee monitoring system with precise face detection and real-time productivity tracking | `MediaPipe` `Spring Boot` `RESTful APIs` `Java` `Python` `AI/ML` | **40%** latency reduction |
-| **[🚗 RoadSense](https://github.com/vive12345/RoadSense)** | Real-time autonomous vehicle simulator with ADAS features and advanced sensor data analysis | `Java` `WebSocket` `Multithreading` `Blocking Queues` `Java Swing` | **<1.6ms** latency |
-| **[🐩 Poodle Programming Language](https://github.com/vive12345/Poodle-The-Programming-Language-)** | Statically-typed programming language combining best features of C++ and Python | `Python` `PLY` `SWI-Prolog` `Lexical Analysis` `Parsing` | Full compiler implementation |
-| **[📋 ScrumSim](https://github.com/vive12345/Scrum-Simulator-Project)** | Java-based Scrum project management simulator showcasing advanced OOP design patterns | `Java 21` `Swing UI` `Gradle` `JUnit 5` `CI/CD` `Design Patterns` | **1600+** lines of code |
-| **[🏥 Health Manager System](https://github.com/vive12345/Health-Manager-system)** | Full-stack health tracking app with ML recommendations and intelligent chatbot integration | `Flask` `Python` `JavaScript` `KNN Algorithm` `ChatGPT API` `Twilio` | ML-powered recommendations |
-| **[🎓 Student Dropout Prediction](https://github.com/vive12345/Predicting-Student-Dropout-and-Academic-Success-)** | ML system predicting student dropout with ensemble methods and data balancing | `Python` `XGBoost` `Random Forest` `SMOTE` `scikit-learn` | **92%** accuracy |
+| **[▫ StockExpert](https://github.com/vive12345/StockExpert)** | Real-time responsive stock trading web application with advanced analytics and portfolio management | `Angular` `Node.js` `MongoDB Atlas` `GCP` `Finnhub API` `Polygon.io` `Highcharts` | **60%** faster load times<br>**30%** faster data retrieval |
+| **[▫ WorkScope](https://github.com/vive12345/WorkScope)** | AI-driven employee monitoring system with precise face detection and real-time productivity tracking | `MediaPipe` `Spring Boot` `RESTful APIs` `Java` `Python` `AI/ML` | **40%** latency reduction |
+| **[▫ RoadSense](https://github.com/vive12345/RoadSense)** | Real-time autonomous vehicle simulator with ADAS features and advanced sensor data analysis | `Java` `WebSocket` `Multithreading` `Blocking Queues` `Java Swing` | **<1.6ms** latency |
+| **[▫ Poodle Programming Language](https://github.com/vive12345/Poodle-The-Programming-Language-)** | Statically-typed programming language combining best features of C++ and Python | `Python` `PLY` `SWI-Prolog` `Lexical Analysis` `Parsing` | Full compiler implementation |
+| **[▫ ScrumSim](https://github.com/vive12345/Scrum-Simulator-Project)** | Java-based Scrum project management simulator showcasing advanced OOP design patterns | `Java 21` `Swing UI` `Gradle` `JUnit 5` `CI/CD` `Design Patterns` | **1600+** lines of code |
+| **[▫ Health Manager System](https://github.com/vive12345/Health-Manager-system)** | Full-stack health tracking app with ML recommendations and intelligent chatbot integration | `Flask` `Python` `JavaScript` `KNN Algorithm` `ChatGPT API` `Twilio` | ML-powered recommendations |
+| **[▫ Student Dropout Prediction](https://github.com/vive12345/Predicting-Student-Dropout-and-Academic-Success-)** | ML system predicting student dropout with ensemble methods and data balancing | `Python` `XGBoost` `Random Forest` `SMOTE` `scikit-learn` | **92%** accuracy |
 
 </div>
 

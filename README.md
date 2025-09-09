@@ -36,9 +36,9 @@
     After 12th grade, when it was time to decide my career path, there was only one thing I could think about. So, I pursued a Bachelor's degree in Computer Science and Engineering, then applied to Arizona State University where I was fortunate to receive the 🏆 <strong>Namu Scholarship at ASU</strong> 🏆 for their <strong>Master's in Software Engineering program</strong>. This is how my 💡 <strong>interest</strong> 💡 transformed into 🔥 <strong>passion</strong> 🔥.
   </div>
 </div>
-
+<br>
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=python,java,javascript,html,css,react,nodejs,flask,docker,git,github,vscode,mysql,mongodb,aws" alt="Tech Stack" />
+  <img src="https://skillicons.dev/icons?i=python,java,javascript,html,css,react,nodejs,flask,docker,git,github,vscode,pycharm,mysql,mongodb,aws,gcp" alt="Tech Stack" />
 </div>
 
 ## 🌟 Open Source Contributions

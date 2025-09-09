@@ -38,7 +38,7 @@
 </div>
 <br>
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=python,java,javascript,html,css,react,nodejs,flask,docker,git,github,vscode,pycharm,mysql,mongodb,aws,gcp" alt="Tech Stack" />
+  <img src="https://skillicons.dev/icons?i=python,java,javascript,html,css,react,nodejs,flask,docker,github,vscode,mysql,mongodb,aws,gcp" alt="Tech Stack" />
 </div>
 
 ## 🌟 Open Source Contributions

@@ -73,20 +73,20 @@
 
 | **Project** | 📝 **Description** | 🛠️ **Technologies** | 📊 **Key Achievement** |
 |:---|:---|:---|:---|
-| **[▫ StockExpert](https://github.com/vive12345/StockExpert)** | Real-time responsive stock trading web application with advanced analytics and portfolio management | `Angular` `Node.js` `MongoDB Atlas` `GCP` `Finnhub API` `Polygon.io` `Highcharts` | **60%** faster load times<br>**30%** faster data retrieval |
-| **[▫ WorkScope](https://github.com/vive12345/WorkScope)** | AI-driven employee monitoring system with precise face detection and real-time productivity tracking | `MediaPipe` `Spring Boot` `RESTful APIs` `Java` `Python` `AI/ML` | **40%** latency reduction |
-| **[▫ RoadSense](https://github.com/vive12345/RoadSense)** | Real-time autonomous vehicle simulator with ADAS features and advanced sensor data analysis | `Java` `WebSocket` `Multithreading` `Blocking Queues` `Java Swing` | **<1.6ms** latency |
-| **[▫ Poodle Programming Language](https://github.com/vive12345/Poodle-The-Programming-Language-)** | Statically-typed programming language combining best features of C++ and Python | `Python` `PLY` `SWI-Prolog` `Lexical Analysis` `Parsing` | Full compiler implementation |
-| **[▫ ScrumSim](https://github.com/vive12345/Scrum-Simulator-Project)** | Java-based Scrum project management simulator showcasing advanced OOP design patterns | `Java 21` `Swing UI` `Gradle` `JUnit 5` `CI/CD` `Design Patterns` | **1600+** lines of code |
-| **[▫ Health Manager System](https://github.com/vive12345/Health-Manager-system)** | Full-stack health tracking app with ML recommendations and intelligent chatbot integration | `Flask` `Python` `JavaScript` `KNN Algorithm` `ChatGPT API` `Twilio` | ML-powered recommendations |
-| **[▫ Student Dropout Prediction](https://github.com/vive12345/Predicting-Student-Dropout-and-Academic-Success-)** | ML system predicting student dropout with ensemble methods and data balancing | `Python` `XGBoost` `Random Forest` `SMOTE` `scikit-learn` | **92%** accuracy |
+| **[StockExpert](https://github.com/vive12345/StockExpert)** | Real-time responsive stock trading web application with advanced analytics and portfolio management | `Angular` `Node.js` `MongoDB Atlas` `GCP` `Finnhub API` `Polygon.io` `Highcharts` | **60%** faster load times<br>**30%** faster data retrieval |
+| **[WorkScope](https://github.com/vive12345/WorkScope)** | AI-driven employee monitoring system with precise face detection and real-time productivity tracking | `MediaPipe` `Spring Boot` `RESTful APIs` `Java` `Python` `AI/ML` | **40%** latency reduction |
+| **[RoadSense](https://github.com/vive12345/RoadSense)** | Real-time autonomous vehicle simulator with ADAS features and advanced sensor data analysis | `Java` `WebSocket` `Multithreading` `Blocking Queues` `Java Swing` | **<1.6ms** latency |
+| **[Poodle Programming Language](https://github.com/vive12345/Poodle-The-Programming-Language-)** | Statically-typed programming language combining best features of C++ and Python | `Python` `PLY` `SWI-Prolog` `Lexical Analysis` `Parsing` | Full compiler implementation |
+| **[ScrumSim](https://github.com/vive12345/Scrum-Simulator-Project)** | Java-based Scrum project management simulator showcasing advanced OOP design patterns | `Java 21` `Swing UI` `Gradle` `JUnit 5` `CI/CD` `Design Patterns` | **1600+** lines of code |
+| **[Health Manager System](https://github.com/vive12345/Health-Manager-system)** | Full-stack health tracking app with ML recommendations and intelligent chatbot integration | `Flask` `Python` `JavaScript` `KNN Algorithm` `ChatGPT API` `Twilio` | ML-powered recommendations |
+| **[Student Dropout Prediction](https://github.com/vive12345/Predicting-Student-Dropout-and-Academic-Success-)** | ML system predicting student dropout with ensemble methods and data balancing | `Python` `XGBoost` `Random Forest` `SMOTE` `scikit-learn` | **92%** accuracy |
 
 </div>
 
 ## 🌼 Hackathons Project Code
 
 <div style="border: 2px solid #FF6B35; border-radius: 10px; padding: 15px; background: linear-gradient(135deg, #fff5f5, #ffe5e5); margin: 15px 0;">
-  <strong>⚒️ <a href="https://github.com/vive12345/Atlassian-forge-quest-hackathon">Forge Atlassian June 2025 Devpost Hackathon</a></strong>
+  <strong>⚒▫ <a href="https://github.com/vive12345/Atlassian-forge-quest-hackathon">Forge Atlassian June 2025 Devpost Hackathon</a></strong>
 </div>
 
 ---

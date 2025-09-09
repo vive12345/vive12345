@@ -2,6 +2,9 @@
 
 🧑‍💻 **Software Engineer** | 🎓 **M.S. Software Engineering @ ASU (Graduating in Dec 2025)** 
 
+* "When we are involved in creativity, we feel that we are living more fully than during the rest of life" *
+                                                                                            ----Mihaly Csikszentmihalyi 
+
 My 🔥 **curiosity** 🔥 for programming began in childhood when my uncle would visit us from abroad. I'd watch him work on his laptop, typing mysterious commands on a black screen that seemed like magic to me.
 
 During my 10th grade summer break, boredom led me to enroll in a computer class where my first teacher, Urvi mam, ignited my 🔥 **interest** 🔥 for programming. When I solved my first pattern problem completely on my own, she told me I should definitely follow this path.
@@ -31,5 +34,3 @@ After 12th grade, when it was time to decide my career path, there was only one 
 
 ### 📫 How to reach me: **vipsakamani11@gmail.com**
 ### 🌐 Connect with me: **[LinkedIn](https://linkedin.com/in/vipsa-kamani)** | **[Portfolio](https://github.com/vive12345)**
-
-*** "When we are involved in creativity, we feel that we are living more fully than during the rest of life" ----Mihaly Csikszentmihalyi * ✨**

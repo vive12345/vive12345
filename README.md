@@ -5,7 +5,7 @@
 </div>
 
 <div align="center">
-  <h3>🌼 <strong>Software Engineer</strong> | 🎓 <strong>M.S. Software Engineering @ ASU (Graduating in Dec 2025)</strong></h3>
+  <h3>🧑‍💻 <strong>Software Engineer</strong> | 🎓 <strong>M.S. Software Engineering @ ASU (Graduating in Dec 2025)</strong></h3>
   
   <div style="background: linear-gradient(135deg, #667eea 0%, #764ba2 100%); padding: 20px; border-radius: 15px; margin: 20px 0; box-shadow: 0 8px 32px 0 rgba(31, 38, 135, 0.37);">
     <em style="color: white; font-size: 1.1em; text-shadow: 2px 2px 4px rgba(0,0,0,0.3);">
@@ -17,7 +17,10 @@
 </div>
 
 ---
-## 🌼 My Journey
+
+
+
+## 🚀 My Journey
 
 <div style="position: relative; padding: 20px; background: linear-gradient(45deg, #f093fb 0%, #f5576c 100%); border-radius: 10px; margin: 15px 0;">
   <div style="background: rgba(255,255,255,0.95); padding: 15px; border-radius: 8px; color: #333;">
@@ -36,12 +39,14 @@
     After 12th grade, when it was time to decide my career path, there was only one thing I could think about. So, I pursued a Bachelor's degree in Computer Science and Engineering, then applied to Arizona State University where I was fortunate to receive the 🏆 <strong>Namu Scholarship at ASU</strong> 🏆 for their <strong>Master's in Software Engineering program</strong>. This is how my 💡 <strong>interest</strong> 💡 transformed into 🔥 <strong>passion</strong> 🔥.
   </div>
 </div>
-<br>
+
+## 🛠️ Tech Stack
+
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=python,java,javascript,html,css,react,nodejs,flask,docker,github,vscode,mysql,mongodb,aws,gcp" alt="Tech Stack" />
+  <img src="https://skillicons.dev/icons?i=python,java,javascript,html,css,react,nodejs,flask,docker,git,github,vscode,mysql,mongodb,aws" alt="Tech Stack" />
 </div>
 
-## 🌼 Open Source Contributions
+## 🌟 Open Source Contributions
 
 <div style="display: grid; gap: 15px; margin: 20px 0;">
 
@@ -67,7 +72,7 @@
 
 </div>
 
-## 🌼 Featured Projects
+## 💻 Featured Projects
 
 <div align="center">
 
@@ -83,7 +88,7 @@
 
 </div>
 
-## 🌼 Hackathons Project Code
+## 🏆 Hackathons Project Code
 
 <div style="border: 2px solid #FF6B35; border-radius: 10px; padding: 15px; background: linear-gradient(135deg, #fff5f5, #ffe5e5); margin: 15px 0;">
   <strong>⚒️ <a href="https://github.com/vive12345/Atlassian-forge-quest-hackathon">Forge Atlassian June 2025 Devpost Hackathon</a></strong>
@@ -92,7 +97,7 @@
 ---
 
 <div align="center">
-  <h2>🌼 Let's Connect!</h2>
+  <h2>🤝 Let's Connect!</h2>
   
   <div style="display: flex; justify-content: center; gap: 20px; flex-wrap: wrap; margin: 20px 0;">
     <a href="mailto:vipsakamani11@gmail.com" style="text-decoration: none;">

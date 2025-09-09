@@ -2,13 +2,15 @@
 
 🧑‍💻 **Software Engineer** | 🎓 **M.S. Software Engineering @ ASU (Graduating in Dec 2025)** 
 
-My ✨ **curiosity** ✨ for programming began in childhood when my uncle would visit us from abroad. I'd watch him work on his laptop, typing mysterious commands on a black screen that seemed like magic to me. I'd sit there wondering what exactly he was doing - little did I know my uncle was a software engineer! I got my first kids laptop from him and spent hours mimicking the way he typed, completely fascinated. But my screen wasn't black and studded with white lines of some zebration - mine had a bunch of games!
+WHEN ?
 
-During my 10th-grade summer break, boredom led me to enroll in a computer class where my first teacher, Urvi Joshi ma'am, ignited my 🔥 **interest** 🔥 for programming. When I solved my first pattern problem completely on my own, she told me I should definitely follow this path.
+My ✨ **curiosity** ✨ for programming began in childhood when my uncle would visit us from abroad. I'd watch him work on his laptop, typing mysterious commands on a black screen that seemed like magic to me.
+
+During my 10th grade summer break, boredom led me to enroll in a computer class where my first teacher, Urvi mam, ignited my 🔥 **interest** 🔥 for programming. When I solved my first pattern problem completely on my own, she told me I should definitely follow this path.
 
 After 12th grade, when it was time to decide my career path, there was only one thing I could think about. So, I pursued a Bachelor's degree in Computer Science and Engineering, then applied to Arizona State University where I was fortunate to receive the 🏆 **Namu Scholarship at ASU** 🏆 for their **Master's in Software Engineering program**. This is how my 💡 **interest** 💡 transformed into 🔥 **passion** 🔥.
 
-Unknowingly, today I'm doing that same "cool thing" my uncle did on his black screen. The magic is real, and now I'm creating it! 😄
+"When we are involved in creativity, we feel that we are living more fully than during the rest of life" ----Mihaly Csikszentmihalyi
 
 
 ## 🌟 Open Source Contributions

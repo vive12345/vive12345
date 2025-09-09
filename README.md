@@ -5,7 +5,7 @@
 </div>
 
 <div align="center">
-  <h3>🌼 <strong>Software Engineer</strong> | 🎓 <strong>M.S. Software Engineering @ ASU (Graduating in Dec 2025)</strong></h3>
+  <h3> <strong>Software Engineer</strong> | 🎓 <strong>M.S. Software Engineering @ ASU (Graduating in Dec 2025)</strong></h3>
   
   <div style="background: linear-gradient(135deg, #667eea 0%, #764ba2 100%); padding: 20px; border-radius: 15px; margin: 20px 0; box-shadow: 0 8px 32px 0 rgba(31, 38, 135, 0.37);">
     <em style="color: white; font-size: 1.1em; text-shadow: 2px 2px 4px rgba(0,0,0,0.3);">

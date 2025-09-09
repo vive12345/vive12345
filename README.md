@@ -2,16 +2,11 @@
 
 🧑‍💻 **Software Engineer** | 🎓 **M.S. Software Engineering @ ASU (Graduating in Dec 2025)** 
 
-WHEN ?
-
 My 🔥 **curiosity** 🔥 for programming began in childhood when my uncle would visit us from abroad. I'd watch him work on his laptop, typing mysterious commands on a black screen that seemed like magic to me.
 
 During my 10th grade summer break, boredom led me to enroll in a computer class where my first teacher, Urvi mam, ignited my 🔥 **interest** 🔥 for programming. When I solved my first pattern problem completely on my own, she told me I should definitely follow this path.
 
 After 12th grade, when it was time to decide my career path, there was only one thing I could think about. So, I pursued a Bachelor's degree in Computer Science and Engineering, then applied to Arizona State University where I was fortunate to receive the 🏆 **Namu Scholarship at ASU** 🏆 for their **Master's in Software Engineering program**. This is how my 💡 **interest** 💡 transformed into 🔥 **passion** 🔥.
-
-"When we are involved in creativity, we feel that we are living more fully than during the rest of life" ----Mihaly Csikszentmihalyi
-
 
 ## 🌟 Open Source Contributions
 
@@ -37,4 +32,4 @@ After 12th grade, when it was time to decide my career path, there was only one 
 ### 📫 How to reach me: **vipsakamani11@gmail.com**
 ### 🌐 Connect with me: **[LinkedIn](https://linkedin.com/in/vipsa-kamani)** | **[Portfolio](https://github.com/vive12345)**
 
-*"Turning curiosity into code, one project at a time"* ✨
+*** "When we are involved in creativity, we feel that we are living more fully than during the rest of life" ----Mihaly Csikszentmihalyi * ✨**

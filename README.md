@@ -90,24 +90,26 @@
 </div>
 
 ---
-
-<div align="center">
-  <h2>🤝 Let's Connect!</h2>
-  <div style="display: flex; justify-content: center; gap: 20px; flex-wrap: wrap; margin: 20px 0;">
-    <a href="mailto:vipsakamani11@gmail.com" style="text-decoration: none;">
-      <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
-    </a>
-    <a href="https://linkedin.com/in/vipsa-kamani" style="text-decoration: none;">
-      <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
-    </a>
-    <a href="https://github.com/vive12345" style="text-decoration: none;">
-      <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=github&logoColor=white" alt="Portfolio" />
-    </a>
-  </div>
-  <div style="margin: 20px 0;">
-    <img src="https://komarev.com/ghpvc/?username=vive12345&color=blueviolet&style=for-the-badge" alt="Profile Views" />
-  </div>
+<div style="display: flex; align-items: center; gap: 10px;">
+  <h2 style="margin: 0;">🌼  Let's Connect!</h2>
+  <a href="mailto:vipsakamani11@gmail.com" style="text-decoration: none;">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+  </a>
+  <a href="https://linkedin.com/in/vipsa-kamani" style="text-decoration: none;">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
 </div>
-<div align="center">
+
+<div style="margin-top: 20px;">
+  <a href="https://github.com/vive12345" style="text-decoration: none;">
+    <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=github&logoColor=white" alt="Portfolio" />
+  </a>
+</div>
+
+<div style="margin-top: 20px;">
+  <img src="https://komarev.com/ghpvc/?username=vive12345&color=blueviolet&style=for-the-badge" alt="Profile Views" />
+</div>
+
+<div>
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer" alt="Footer" />
 </div>

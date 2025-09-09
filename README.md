@@ -77,47 +77,17 @@
 
 ## 💻 Featured Projects
 
-<div style="display: grid; gap: 20px; margin: 20px 0;">
+<div align="center">
 
-<div style="border: 1px solid #ddd; border-radius: 12px; padding: 20px; background: linear-gradient(135deg, #667eea 0%, #764ba2 100%); color: white; box-shadow: 0 4px 15px rgba(0,0,0,0.1);">
-  <h3 style="margin: 0 0 10px 0;">🐩 <a href="https://github.com/vive12345/Poodle-The-Programming-Language-" style="color: #fff; text-decoration: none;">Poodle Programming Language</a></h3>
-  <p style="margin: 10px 0;">Created a statically-typed programming language with clean syntax combining best features of C++ and Python</p>
-  <div style="background: rgba(255,255,255,0.2); padding: 8px; border-radius: 6px; font-size: 0.9em;">
-    <strong>Tech:</strong> Python, PLY, SWI-Prolog, Lexical Analysis, Parsing
-  </div>
-</div>
-
-<div style="border: 1px solid #ddd; border-radius: 12px; padding: 20px; background: linear-gradient(135deg, #f093fb 0%, #f5576c 100%); color: white; box-shadow: 0 4px 15px rgba(0,0,0,0.1);">
-  <h3 style="margin: 0 0 10px 0;">📋 <a href="https://github.com/vive12345/Scrum-Simulator-Project" style="color: #fff; text-decoration: none;">ScrumSim</a></h3>
-  <p style="margin: 10px 0;">Java-based Scrum project management simulator with 1600+ LOC showcasing OOP design patterns</p>
-  <div style="background: rgba(255,255,255,0.2); padding: 8px; border-radius: 6px; font-size: 0.9em;">
-    <strong>Tech:</strong> Java 21, Swing UI, Gradle, JUnit 5, CI/CD, Design Patterns
-  </div>
-</div>
-
-<div style="border: 1px solid #ddd; border-radius: 12px; padding: 20px; background: linear-gradient(135deg, #4facfe 0%, #00f2fe 100%); color: white; box-shadow: 0 4px 15px rgba(0,0,0,0.1);">
-  <h3 style="margin: 0 0 10px 0;">🚗 <a href="https://github.com/vive12345/RoadSense" style="color: #fff; text-decoration: none;">RoadSense</a></h3>
-  <p style="margin: 10px 0;">Real-time autonomous vehicle simulator with ADAS features and segment detection</p>
-  <div style="background: rgba(255,255,255,0.2); padding: 8px; border-radius: 6px; font-size: 0.9em;">
-    <strong>Tech:</strong> Java, WebSocket, Multithreading, Swing UI, GPS Analysis
-  </div>
-</div>
-
-<div style="border: 1px solid #ddd; border-radius: 12px; padding: 20px; background: linear-gradient(135deg, #fa709a 0%, #fee140 100%); color: white; box-shadow: 0 4px 15px rgba(0,0,0,0.1);">
-  <h3 style="margin: 0 0 10px 0;">🏥 <a href="https://github.com/vive12345/Health-Manager-system" style="color: #fff; text-decoration: none;">Health Manager System</a></h3>
-  <p style="margin: 10px 0;">Full-stack health tracking app with ML recommendations and chatbot integration</p>
-  <div style="background: rgba(255,255,255,0.2); padding: 8px; border-radius: 6px; font-size: 0.9em;">
-    <strong>Tech:</strong> Flask, Python, JavaScript, KNN Algorithm, ChatGPT API, Twilio
-  </div>
-</div>
-
-<div style="border: 1px solid #ddd; border-radius: 12px; padding: 20px; background: linear-gradient(135deg, #a8edea 0%, #fed6e3 100%); color: #333; box-shadow: 0 4px 15px rgba(0,0,0,0.1);">
-  <h3 style="margin: 0 0 10px 0;">🎓 <a href="https://github.com/vive12345/Predicting-Student-Dropout-and-Academic-Success-" style="color: #333; text-decoration: none;">Student Dropout Prediction</a></h3>
-  <p style="margin: 10px 0;">ML system predicting student dropout with 92% accuracy using ensemble methods</p>
-  <div style="background: rgba(0,0,0,0.1); padding: 8px; border-radius: 6px; font-size: 0.9em;">
-    <strong>Tech:</strong> Python, XGBoost, Random Forest, SMOTE, scikit-learn
-  </div>
-</div>
+| 🚀 **Project** | 📝 **Description** | 🛠️ **Technologies** | 📊 **Key Achievement** |
+|:---|:---|:---|:---|
+| **[📈 StockExpert](https://github.com/vive12345/StockExpert)** | Real-time responsive stock trading web application with advanced analytics and portfolio management | `Angular` `Node.js` `MongoDB Atlas` `GCP` `Finnhub API` `Polygon.io` `Highcharts` | **60%** faster load times<br>**30%** faster data retrieval |
+| **[👁️ WorkScope](https://github.com/vive12345/WorkScope)** | AI-driven employee monitoring system with precise face detection and real-time productivity tracking | `MediaPipe` `Spring Boot` `RESTful APIs` `Java` `Python` `AI/ML` | **40%** latency reduction |
+| **[🚗 RoadSense](https://github.com/vive12345/RoadSense)** | Real-time autonomous vehicle simulator with ADAS features and advanced sensor data analysis | `Java` `WebSocket` `Multithreading` `Blocking Queues` `Java Swing` | **<1.6ms** latency |
+| **[🐩 Poodle Programming Language](https://github.com/vive12345/Poodle-The-Programming-Language-)** | Statically-typed programming language combining best features of C++ and Python | `Python` `PLY` `SWI-Prolog` `Lexical Analysis` `Parsing` | Full compiler implementation |
+| **[📋 ScrumSim](https://github.com/vive12345/Scrum-Simulator-Project)** | Java-based Scrum project management simulator showcasing advanced OOP design patterns | `Java 21` `Swing UI` `Gradle` `JUnit 5` `CI/CD` `Design Patterns` | **1600+** lines of code |
+| **[🏥 Health Manager System](https://github.com/vive12345/Health-Manager-system)** | Full-stack health tracking app with ML recommendations and intelligent chatbot integration | `Flask` `Python` `JavaScript` `KNN Algorithm` `ChatGPT API` `Twilio` | ML-powered recommendations |
+| **[🎓 Student Dropout Prediction](https://github.com/vive12345/Predicting-Student-Dropout-and-Academic-Success-)** | ML system predicting student dropout with ensemble methods and data balancing | `Python` `XGBoost` `Random Forest` `SMOTE` `scikit-learn` | **92%** accuracy |
 
 </div>
 

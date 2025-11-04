@@ -101,10 +101,6 @@
 </div>
 </div>
 
-<div style="margin-top: 20px;">
-  <img src="https://komarev.com/ghpvc/?username=vive12345&color=blueviolet&style=for-the-badge" alt="Profile Views" />
-</div>
-
 <div>
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer" alt="Footer" />
 </div>
